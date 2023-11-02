@@ -1,0 +1,14 @@
+{
+  "xander": {
+    "password": "$2b$12$U6cBzCCRb/UNk5b4XqD2a.WUBYmLNqCBkMZrTdYwXpnBbv34GhGby",
+    "name": "xander"
+  },
+  "daniel": {
+    "password": "$2b$12$7MkfYkFt9SZq4/AkpfyAReM1yXgUDM0O4wCNXz2rIF2s.8ZdK.H/.",
+    "name": "daniel"
+  },
+  "nathan": {
+    "password": "$2b$12$7UvA7hfDIAgKvejHA.NA1upVqtFOeKHkGQVGFKOKOR6XXq.bxPQVG",
+    "name": "nathan"
+  }
+}
